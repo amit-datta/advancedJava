@@ -18,7 +18,7 @@ public class ConsumerExample {
     };
     public static void main(String[] args){
         Consumer<String> nameConsumer = (name) -> System.out.println(name.toUpperCase()+" POTTER");
-        Employee employee = new Employee("Harry","IT_Manager",237765,89000,"M", Arrays.asList("ABC Retail", "ABC Insurance","XYZs Retail"));
+        Employee employee = new Employee("Harry","IT_Manager",237767,89000,"M", Arrays.asList("ABC Retail", "ABC Insurance","XYZs Retail"));
         nameConsumer.accept(employee.getName());
 
         List<Employee> employees = EmployeeDB.getEmployees();
