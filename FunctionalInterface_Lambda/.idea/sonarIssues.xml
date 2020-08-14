@@ -13,6 +13,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/javatutor/functionalinterface/bifunction/BiFunctionExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/javatutor/functionalinterface/binaryoperator/BinaryOperatorExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/javatutor/functionalinterface/binaryoperator/BinaryOpertorExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/javatutor/functionalinterface/bipredicate/BiPredicateExample.java">
           <value>
             <set />
@@ -38,7 +53,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/javatutor/functionalinterface/function/FunctionExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/javatutor/functionalinterface/predicate/PredicateExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/javatutor/functionalinterface/unaryoperator/UnaryOperatorExample.java">
           <value>
             <set />
           </value>

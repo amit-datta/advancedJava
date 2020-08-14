@@ -15,3 +15,7 @@ s
 Csrc/com/javatutor/functionalinterface/consumer/ConsumerExample.java,2\9\294be007f571ba6083de8f1fc672be001864808a
 y
 Isrc/com/javatutor/functionalinterface/bipredicate/BiPredicateExample.java,b\0\b0aa8099f608311a7d8935015e3ce732f60a3af0
+s
+Csrc/com/javatutor/functionalinterface/function/FunctionExample.java,8\4\84c395bf4df2be998722f4a578410ec2c9f07065
+w
+Gsrc/com/javatutor/functionalinterface/bifunction/BiFunctionExample.java,5\c\5c81967da1ded79672b6de42c25dfc81d3a6baa8
