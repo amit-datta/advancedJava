@@ -1,0 +1,8 @@
+
+u
+java:S1602
+"SRemove useless curly braces around statement and then remove useless return keyword(ëàÙ–şÿÿÿÿ8¦µÓé¾.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÃŸİáøÿÿÿÿ8±¢Ôé¾.
+p
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(™öç²8å«ïé¾.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ó™ÿÿÿÿÿ8Â¨òé¾.

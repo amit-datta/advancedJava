@@ -1,13 +1,13 @@
 
-}
-java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(¥ø¡şùÿÿÿÿ8—şÿÚ¾.
-Z	java:S106'"9Replace this use of System.out or System.err by a logger.(»®ÅÔúÿÿÿÿ8ÈßÛ¾.
-U	java:S106$"9Replace this use of System.out or System.err by a logger.(‚âÙş8ı”ïÛ¾.
-N
-java:S1612",Replace this lambda with a method reference.(¥ø¡şùÿÿÿÿ8Î®ƒÛ¾.
-T
-java:S1611"7Remove the parentheses around the "employees" parameter(·ßİ»8¥á±Û¾.
 S
 java:S1611"1Remove the parentheses around the "str" parameter(¥ø¡şùÿÿÿÿ8—şÿÚ¾.
 Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ì—Öùÿÿÿÿ8ƒÜ‡Û¾.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(‚âÙş8ı”ïÛ¾.
 Z	java:S106("9Replace this use of System.out or System.err by a logger.(ûØÁ˜úÿÿÿÿ8ÜëåÛ¾.
+}
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(¥ø¡şùÿÿÿÿ8—şÿÚ¾.
+T
+java:S1611"7Remove the parentheses around the "employees" parameter(·ßİ»8¥á±Û¾.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(»®ÅÔúÿÿÿÿ8ÈßÛ¾.
+N
+java:S1612",Replace this lambda with a method reference.(¥ø¡şùÿÿÿÿ8Î®ƒÛ¾.

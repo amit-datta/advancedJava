@@ -19,3 +19,9 @@ s
 Csrc/com/javatutor/functionalinterface/function/FunctionExample.java,8\4\84c395bf4df2be998722f4a578410ec2c9f07065
 w
 Gsrc/com/javatutor/functionalinterface/bifunction/BiFunctionExample.java,5\c\5c81967da1ded79672b6de42c25dfc81d3a6baa8
+}
+Msrc/com/javatutor/functionalinterface/unaryoperator/UnaryOperatorExample.java,3\2\32d1428105b2e5712fff5e5b471ab37e4387bea6
+
+Osrc/com/javatutor/functionalinterface/binaryoperator/BinaryOperatorExample.java,8\2\829db39d70e99df3f34f688a1839741d893fff36
+s
+Csrc/com/javatutor/functionalinterface/supplier/SupplierExample.java,c\c\cc3252f353d92f3227b29bbc2d02f469601045d2
