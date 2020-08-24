@@ -58,6 +58,31 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/javatutor/functionalinterface/lambda/AdditionLambda.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/javatutor/functionalinterface/lambda/CommonUsagesLambda.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/javatutor/functionalinterface/lambda/ComparatorLambda.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/javatutor/functionalinterface/lambda/MyFirstLambdaExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/javatutor/functionalinterface/lambda/RunnableLambda.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/javatutor/functionalinterface/predicate/PredicateExample.java">
           <value>
             <set />
